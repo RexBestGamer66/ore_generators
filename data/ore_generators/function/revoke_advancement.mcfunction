@@ -1,0 +1,1 @@
+advancement revoke @p only ore_generators:destroy_nearest
