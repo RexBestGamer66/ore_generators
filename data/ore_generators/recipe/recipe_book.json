@@ -1,0 +1,46 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LEL",
+    "EBE",
+    "LEL"
+  ],
+  "key": {
+    "B": "minecraft:book",
+    "E": "minecraft:emerald",
+    "L": "minecraft:lapis_lazuli"
+  },
+  "result": {
+    "id": "minecraft:knowledge_book",
+    "components": {
+      "minecraft:recipes": [
+        "ore_generators:amethyst_generator",
+        "ore_generators:ancient_debris_generator",
+        "ore_generators:coal_ore_generator",
+        "ore_generators:copper_ore_generator",
+        "ore_generators:deepslate_coal_ore_generator",
+        "ore_generators:deepslate_copper_ore_generator",
+        "ore_generators:deepslate_diamond_ore_generator",
+        "ore_generators:deepslate_emerald_ore_generator",
+        "ore_generators:deepslate_gold_ore_generator",
+        "ore_generators:deepslate_iron_ore_generator",
+        "ore_generators:deepslate_lapis_ore_generator",
+        "ore_generators:deepslate_redstone_ore_generator",
+        "ore_generators:diamond_ore_generator",
+        "ore_generators:emerald_ore_generator",
+        "ore_generators:gold_ore_generator",
+        "ore_generators:iron_ore_generator",
+        "ore_generators:lapis_ore_generator",
+        "ore_generators:nether_gold_ore_generator",
+        "ore_generators:nether_quartz_ore_generator",
+        "ore_generators:raw_copper_generator",
+        "ore_generators:raw_gold_generator",
+        "ore_generators:raw_iron_generator",
+        "ore_generators:redstone_ore_generator",
+        "ore_generators:generator_destroyer"
+      ],
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:item_name": "Ore Generators Recipe Book"
+    }
+  }
+}
